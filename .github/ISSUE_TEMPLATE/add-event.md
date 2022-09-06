@@ -1,5 +1,5 @@
 ---
-name: Add job
+name: Add event
 about: Siga as instruções fornecidas pelo modelo de issues.
 title: '[Local] @NomeDoEvento'
 
