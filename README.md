@@ -10,7 +10,7 @@ Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de backend
 
 ## Como cadastrar um evento?
 
-Abra uma [issue](https://github.com/backend-br/eventos/issues/new), e preencha os dados seguindo o modelo padrão gerado
+Abra uma [issue](https://github.com/backend-br/eventos/issues), e preencha os dados seguindo o modelo padrão gerado
 pela issue.
 
 ## Licença
