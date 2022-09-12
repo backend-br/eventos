@@ -8,11 +8,15 @@
 
 Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de backend.
 
+<div id='register'></div>
+
 ## Como cadastrar um evento?
 
 Abra uma [issue](https://github.com/backend-br/eventos/issues), e preencha os dados seguindo o modelo padrão gerado
 pela issue.
 
+<div id='license'></div>
+
 ## Licença
 
-Licenciado sob [MIT](/LICENSE).
+Licenciado sob [MIT](LICENSE).
