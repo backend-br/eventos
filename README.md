@@ -4,6 +4,8 @@
   <img src="https://avatars3.githubusercontent.com/u/30732658?v=4&s=200.jpg" alt="BackEndBR" width="230" />
 </p>
 
+<div id='events'></div>
+
 # Eventos
 
 Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de backend.
@@ -20,3 +22,9 @@ pela issue.
 ## Licença
 
 Licenciado sob [MIT](LICENSE).
+
+<div id='contributing'></div>
+
+## Contribuindo
+
+Siga as [diretrizes de contribuição](CONTRIBUTING.md) para contribuir com o projeto.
